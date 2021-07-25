@@ -9,7 +9,7 @@ import (
 
 /*
 function:写入错误日志
-author:JZ
+author:YD
 time:2021-07-25
 */
 func WriteErrorLog(error error, c *gin.Context) {
