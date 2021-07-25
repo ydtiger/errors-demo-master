@@ -34,7 +34,7 @@ func userFind(c *gin.Context){
 
 /*
 function:根据id查找用户信息
-author:JZ
+author:YD
 time:2021-07-25
 */
 func findUserInfoById(userId int)(string,error){
