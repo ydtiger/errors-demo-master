@@ -7,7 +7,7 @@ import (
 
 /*
 function:初始化路由主方法
-author:JZ
+author:YD
 time:2021-07-09
 */
 func InitRouter() *gin.Engine {
