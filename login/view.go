@@ -10,7 +10,7 @@ import 	orm "errors_demo/database"
 
 /*
 function:查找用户信息
-author:JZ
+author:YD
 time:2021-07-25
 */
 func userFind(c *gin.Context){
